@@ -156,6 +156,9 @@ Current flood prediction models and maps may lack real-time predictive capabilit
 - **NOAA National Centers for Environmental Information:**  
   https://www.ncei.noaa.gov/
 
+- **County of Santa Cruz Open Data Portal**
+  https://opendata-sccgis.opendata.arcgis.com
+
 - **USGS National Map (DEM Data):**  
   https://viewer.nationalmap.gov/basic/
 
@@ -277,6 +280,7 @@ By establishing a clear ETL process and incorporating advanced geospatial analys
 - **USGS National Map**
 - **National Land Cover Database**
 - **FEMA Flood Map Service Center**
+- **County of Santa Cruz Open Data Portal**
 - **QGIS Documentation:**  
   https://www.qgis.org/en/docs/index.html
 - **Python Libraries Documentation:**
