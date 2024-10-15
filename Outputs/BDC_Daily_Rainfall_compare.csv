@@ -9,7 +9,7 @@ Date,Calculated Cumulative Rainfall (inches),Daily Rainfall (inches),Discrepancy
 2015-10-30,0.0,0.0,False
 2015-10-31,0.0,0.0,False
 2015-11-01,0.0,0.0,False
-2015-11-02,0.95,0.0,True
+2015-11-02,0.9500000000000001,0.0,True
 2015-11-03,0.0,0.0,False
 2015-11-08,0.08000000000000007,0.12,True
 2015-11-09,0.6699999999999997,0.63,True
